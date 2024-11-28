@@ -1,5 +1,5 @@
 # bugEater
-exploit, darkweb for red teamer, conference. 
+exploit, darkweb info for red teamer, conference speaker. 
 
 ## Exploit
 [WordPress etc. zeroday info](https://satoshidisk[.]com/pay/CMuRLt)
